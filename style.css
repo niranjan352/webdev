@@ -248,12 +248,11 @@ text-align:center;
 }
 
 .hero-image img{
-
-width:250%;
-max-width:850px;
-animation:float 4s ease-in-out infinite;
-filter:drop-shadow(0 0 35px #ffb40055);
-
+    width:100%;
+    max-width:650px;
+    height:auto;
+    animation:float 4s ease-in-out infinite;
+    filter:drop-shadow(0 0 40px rgba(255,180,0,.45));
 }
 
 @keyframes float{
