@@ -249,7 +249,7 @@ text-align:center;
 
 .hero-image img{
     width:100%;
-    max-width:650px;
+    max-width:400px;
     height:auto;
     animation:float 4s ease-in-out infinite;
     filter:drop-shadow(0 0 40px rgba(255,180,0,.45));
